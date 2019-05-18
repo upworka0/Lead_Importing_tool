@@ -1,0 +1,47 @@
+.credential_body{
+	padding-bottom: 10px!important;
+}
+
+.no-margin-bottom{
+	margin-bottom: 0px!important;
+}
+
+.text-bold{
+	font-weight: 600;
+}
+
+.m-t-120{
+	margin-top: 120px;
+}
+
+.infor{
+	margin-bottom: 0px;
+}
+@media (max-width: 767px) {
+	.m-t-120{
+		margin-top: 0px;
+	}
+	.m-t-65.no-margin-bottom{
+		margin-top: 0px;	
+	}
+}
+
+.table-responsive{
+	overflow-x: unset;
+}
+
+.card .header{
+    padding: 15px;
+}
+
+section.content{
+   margin-top: 78px;
+}
+
+.block-header{
+    margin-bottom: 8px;
+}
+
+.card{
+    margin-bottom: 20px;
+}
